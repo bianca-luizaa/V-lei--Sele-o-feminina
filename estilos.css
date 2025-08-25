@@ -1,7 +1,8 @@
 h1{
     color: rgb(202, 3, 3);
-    text-align: center;
+    text-align: left;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 20px;
 }
 
 body{
@@ -13,7 +14,7 @@ nav{
     top: 0;
     width: 100%;
     background: transparent;
-    color: white;
+    color: rgb(212, 17, 17);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -40,10 +41,12 @@ nav ul{
 }
 
 nav ul li a{
-    color: white;
+    color: rgb(192, 26, 26);
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
+    justify-content: center;
+    align-items: center;
 }
 
 nav ul li a:hover{
