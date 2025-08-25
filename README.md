@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Volei Selecao feminina
-
 
 =======
 # Series favoritas
